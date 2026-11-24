@@ -48,14 +48,4 @@ AI agent  <-->  MCP Sentinel  <-->  MCP servers (files, messaging, calendar, san
 | Cloud | AWS API Gateway, Lambda, DynamoDB, S3 |
 | Phone app | React web app |
 
-## Team
 
-Team name: 
-Team ID: 
-
-| Member | USN |
-|---|---|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
