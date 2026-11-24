@@ -4,8 +4,6 @@ A voice-approved safety gateway for AI agents.
 
 Built for wHACKiest 2026 (CodeRIT, Ramaiah Institute of Technology), Track 1: Make MCP Matter.
 
-> Status: Round 1 blueprint. This repository holds the design only. Code will be added in the 24-hour offline round.
-
 ## The problem
 
 AI agents now pay, send messages and delete files for us through MCP tools. An agent cannot reliably tell data from instructions, so hidden text in a document, a message or a tool description can make it act against its owner. Security gateways for MCP exist, but they are built for engineers. A shopkeeper cannot read a JSON approval pop-up.
